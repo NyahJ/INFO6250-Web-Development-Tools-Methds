@@ -1,0 +1,14 @@
+.color1 {
+    background-color: hsla(120, 100%, 20%, 0.3);
+}
+
+#color2 {
+    background-color: hsla(100, 100%, 75%, 0.6);
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    align-items: center;
+}

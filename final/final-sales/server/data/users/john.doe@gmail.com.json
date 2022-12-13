@@ -1,0 +1,25 @@
+{
+    "email": "john.doe@gmail.com",
+    "password": "$2b$10$RvYmCK.AkzAwhkBnjB2Zwe7ziw4Snw1lWLDkHo5p/dKomay7gLX1S",
+    "firstName": "John",
+    "lastName": "Doe",
+    "createdAt": "2022-05-03T03:47:31.908Z",
+    "updatedAt": "2022-05-03T04:25:49.407Z",
+    "records": {
+        "6544afda-e4e1-44e0-af53-229615d0d333": {
+            "recordId": "6544afda-e4e1-44e0-af53-229615d0d333",
+            "recordType": 2,
+            "recordName": "Eating Junk Food"
+        },
+        "49ad7a7f-e312-440e-8980-34cd885665dd": {
+            "recordId": "49ad7a7f-e312-440e-8980-34cd885665dd",
+            "recordType": 1,
+            "recordName": "Social Media"
+        },
+        "859d144b-2667-4e36-84d7-edca7218438d": {
+            "recordId": "859d144b-2667-4e36-84d7-edca7218438d",
+            "recordType": 0,
+            "recordName": "Swimming"
+        }
+    }
+}

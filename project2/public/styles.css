@@ -1,0 +1,73 @@
+body{
+    margin : 6rem;
+    background-color: pink;
+}
+
+h2, h3, h4{
+    text-align: center;
+}
+
+form{
+    width: 300px;
+    margin: 0 auto;
+    background: rgb(133 203 117);
+    padding: 50px;
+    border-radius: 5px;
+}
+
+form input{
+    width: 100%;
+    padding: 10px;
+
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+span{
+    color: #429736;
+    font-size: 1.5rem;
+}
+
+form label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    padding:0.5rem;
+}
+
+form button{
+    width: 100%;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button{
+    width: 10%;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.logout{
+    background-color: black;
+    color: white;
+    width: auto;
+    text-align: center;
+}
+
+.message{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}

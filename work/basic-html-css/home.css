@@ -1,0 +1,9 @@
+.list-style {
+  border: 1px solid blue;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  list-style-type: "\1F431";
+}
